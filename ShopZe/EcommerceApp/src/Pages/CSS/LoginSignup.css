@@ -15,7 +15,7 @@
 .loginsignup-container h1{
     margin: 15px 0px;
 }
-.loginsignup-fields{
+.card-header{
     display: flex;
     flex-direction: column;
     gap: 25px;
